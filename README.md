@@ -43,11 +43,18 @@ By segmenting the player base by geographical region and investigating the spend
  
 ### 7. What is the age distribution, and what is the most profitable age segmentation playing this game? What about also taking into consideration the region the player is from?
 We found that 20 is the age group with the most players (5911), with age following a normal distribution as shown in the graph.
+>![Count of Players](https://user-images.githubusercontent.com/90063554/139684940-55a836b2-b558-4f70-9045-af05bbf804a1.png)
 
 Predictably, the total amount spent per age category follows a similar distribution, with 20 again being the age with the most amount of money spent ($8,382,685.06).
+>![In-App Spending by Age](https://user-images.githubusercontent.com/90063554/139685078-d92545f1-fa7c-4b55-bbe3-a11710e44a28.png)
 
 We wanted to then determine which age category is the most profitable by determining the average amount of money that each players spends for each age category. Interestingly, we found that players in the lowest and highest age categories spent more on average than those in the middle.
+>![In-App Spending _ Count of Players Each Age](https://user-images.githubusercontent.com/90063554/139684495-f917e888-36bf-436b-a631-4bf47191e295.png)
 
 We also wanted to determine that average profitably of all players by each region. To do this, we divided the total revenue from each region and divided it by the number of players in that region. We discovered that players in Europe were the most profitable ($1,411 avg spend/person), while players in Africa were the least profitable ($1,391 avg spend/person).
+
+>![Player Count by Region](https://user-images.githubusercontent.com/90063554/139684540-45d69243-3b52-4525-81e0-096144d7e763.png)
+
+>![Regional Spending _ Count of Players by Region](https://user-images.githubusercontent.com/90063554/139684584-a6e61808-1864-4795-8ef0-3281f520720b.png)
 
 *(Appendix 8 in queries)*

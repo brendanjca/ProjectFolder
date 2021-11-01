@@ -51,7 +51,7 @@ Predictably, the total amount spent per age category follows a similar distribut
 We wanted to then determine which age category is the most profitable by determining the average amount of money that each players spends for each age category. Interestingly, we found that players in the lowest and highest age categories spent more on average than those in the middle.
 >![In-App Spending _ Count of Players Each Age](https://user-images.githubusercontent.com/90063554/139684495-f917e888-36bf-436b-a631-4bf47191e295.png)
 
-We also wanted to determine that average profitably of all players by each region. To do this, we divided the total revenue from each region and divided it by the number of players in that region. We discovered that players in Europe were the most profitable ($1,411 avg spend/person), while players in Africa were the least profitable ($1,391 avg spend/person).
+We also wanted to determine the average profitably of all players by each region. To do this, we took the total revenue from each region and divided it by the number of players in that region. We discovered that players in Europe were the most profitable ($1,411 avg spend/person), while players in Africa were the least profitable ($1,391 avg spend/person).
 
 >![Player Count by Region](https://user-images.githubusercontent.com/90063554/139684540-45d69243-3b52-4525-81e0-096144d7e763.png)
 

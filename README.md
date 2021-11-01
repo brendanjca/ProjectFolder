@@ -16,6 +16,7 @@ Investigate retention for player's of a mobile app by using a relational databas
 ## Tables Created
 -Retention Rate by Day of the Year *(Appendix 1 in queries)*
 -Retention Status by Member *(Appendix 2 in queries)*
+-Link to our Google Sheets: https://docs.google.com/spreadsheets/d/103JXISDI3oCEXZ-AccreskXuI0Z5JJUSbnY2TNijTmU/edit#gid=28718640
 
 ## Business Questions & Exploratory Analysis
 ### 1. What percentage of the game's players showed retention by continuing to play the game more than 30 days after they day they joined?

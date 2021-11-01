@@ -22,7 +22,7 @@ Investigate retention for player's of a mobile app by using a relational databas
 Of the 40,452 players who joined the game over the span of the year, 27,687 of those players were considered retained (68.44%). *(Appendix 3 in queries)*
 
 ### 2. What is the fractional retention throughout the year and does this vary at specific times of the year?
-For this analysis, we omitted the last 3 days of the data set because they the retention rate was so low that it skewed the analysis. By investigating the fractional retention for each of the days of the year, we can see an *very slight* downward trend toward the end of the year. In general, there is no seasonality to be observed by retention rates. They range from a low of 56% to a high of 80% and they average 68% overall. *(Appendix 1 in queries)*
+For this analysis, we omitted the last 3 days of the data set because the retention rate could not be accurately determined and thus skewed the analysis. By investigating the fractional retention for each of the days of the year, we can see an *very slight* downward trend toward the end of the year. In general, there is no seasonality to be observed by retention rates. They range from a low of 56% to a high of 80% and they average 68% overall. *(Appendix 1 in queries)*
 >![Retention Rates Over the Year](https://user-images.githubusercontent.com/90063554/139563305-e1b9a5bd-0e7e-4c7a-8129-4005d51535e9.png)
 
 ### 3. How does retention vary by region?

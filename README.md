@@ -5,7 +5,7 @@
 October 2021
 
 ## Project Objective
-Investigate retention for player's of a mobile app by using a relational database and writing queries to aggregate data for the purposes of reporting and visualization.
+Investigate retention for players of a mobile app by using a relational database and writing queries to aggregate data for the purposes of reporting and visualization.
 
 ## Points of investigation
 -Retention rate (30-day rolling)
